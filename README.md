@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://www.aig123.com/favicon.png“ />
 <H1>👋 Welcom to aig123导航</H1>
 </div>
 
@@ -8,4 +9,4 @@ aig123导航-AI工具导航是一个AI工具网址导航站，为您收集全球
 
 AI工具导航首页：https://www.aig123.com/
 
-<img src="https://www.aig123.com/wp-content/uploads/2024/10/aig123 2001.png“ />
+<img src="https://www.aig123.com/wp-content/uploads/2024/10/aig123_2001.png“ />
